@@ -22,7 +22,7 @@
 
 # 四、实验结果
 
-
+![Snipaste_2021-03-24_00-30-54](https://user-images.githubusercontent.com/61318733/112182667-7392f480-8c38-11eb-8c2d-775e24a28e9f.png)
 
 
 # 五、实验心得
