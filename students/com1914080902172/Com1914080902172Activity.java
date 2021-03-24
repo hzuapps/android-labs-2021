@@ -1,3 +1,0 @@
-pulic static viod main{
-
-}
