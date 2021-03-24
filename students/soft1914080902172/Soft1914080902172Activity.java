@@ -1,0 +1,3 @@
+pulic static void main{
+
+}
