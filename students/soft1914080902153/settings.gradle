@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "soft1914080902153"
