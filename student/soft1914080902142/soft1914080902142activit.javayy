@@ -1,0 +1,11 @@
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+public class soft1914080902142activity{
+    
+    public void static main(String args[]){
+        
+    }
+    }
+}
