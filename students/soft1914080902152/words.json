@@ -1,0 +1,31 @@
+[
+    {
+        "eng":"apple",
+        "chinese":"苹果 (n.)"
+    },
+
+    {
+        "eng":"banana",
+        "chinese":"香蕉,芭蕉属植物 (n.)"
+    },
+
+    {
+        "eng":"orange",
+        "chinese":"橘子，橙子，橙色 (n.) \n橙色的，橘色的 (adj.)"
+    },
+
+    {
+        "eng":"purple",
+        "chinese":"紫色 (n.)\n紫色的 (adj.)"
+    },
+    
+    {
+        "eng":"red",
+        "chinese":"红色 (n.)\n红色的 (adj.)"
+    },
+
+    {
+        "eng":"yellow",
+        "chinese":"黄色 (n.)\n黄色的；胆小的 (adj.)\n变黄或发黄 (v.)"
+    }
+]
